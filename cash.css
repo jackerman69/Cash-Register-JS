@@ -1,0 +1,20 @@
+body{
+    font-display: center;
+    content: center;
+    text-align: center;
+    background: linear-gradient(35deg, #CCFFFF, #FFCCCC);
+}
+.layout{
+    border: black solid 2px;
+}
+.Buttons{
+    text-align: none;
+}
+#print{
+    width: 94.13px;
+}
+#printTotal{
+    border: black solid 2px;
+    margin: 10px 30%;
+    display: none;
+}
